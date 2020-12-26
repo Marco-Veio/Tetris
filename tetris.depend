@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1525639786 source:c:\users\marco\desktop\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+
+1492748208 c:\users\marco\desktop\tetris\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
